@@ -1,0 +1,139 @@
+.myheader {
+    color: white
+}
+
+a.myheader-items {
+    text-decoration: none;
+    color: white;
+}
+
+a.myheader-items:hover {
+    background-color: orange;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+a.myheader-site {
+    color: white;
+    text-decoration: none;
+}
+
+span {
+    color: orange;
+    font-size: 20px;
+    font-weight: bolder;
+} 
+
+.mountain {
+    background-image: url("showcase.jpg");
+    margin-left: -15px;
+    margin-right: -15px;
+    color: white;
+    text-align: center;
+}
+
+.mountain-text {
+    padding-bottom: 250px; 
+    padding-top: 250px;
+}
+
+.button {
+    background-color: orange;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: black;
+    color: orange;
+}
+
+p {
+    font-size: 20px;
+}
+
+.bolder {
+    font-weight: bolder;
+    font-size: 35px;
+    margin: 60px;
+    text-align: center;
+}
+
+div.col {
+    text-align: right;
+}
+
+.house {
+    width: 100px;
+    height: 100px;
+}
+
+.lorem-title {
+    font-size: 15px;
+    font-weight: bolder;
+}
+
+.lorem-text {
+    font-size: 15px;
+}
+
+.section-3 {
+    margin-bottom: 70px;
+}
+
+.night {
+    background-image: url("night.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.night-margin {
+    margin-bottom: 40px;
+    border-bottom: solid white 1px;
+}
+
+.night-text {
+    color: white;
+    display: flex;
+}
+
+.fm {
+    height: 150px;
+    width: 150px;
+    margin: 30px;
+}
+
+form {
+    text-align: right; 
+    padding-bottom: 70px;
+}
+
+form p {
+    text-align: right; 
+    font-size: 35px; 
+    font-weight: bolder;
+    margin-bottom: 40px;
+}
+
+form textarea {
+    resize: none;
+}
+
+a img {
+    height: 45px;
+    width: 45px;
+    border-radius: 50%;
+}
